@@ -1,0 +1,28 @@
+body{
+    background: #E9ECEF!important;
+}
+.title{
+    color:rgb(189, 5, 5)!important;
+}
+.urun{
+   list-style: decimal!important;
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   grid-gap:10px;
+}
+img{
+    width:180px;
+    height:180px;
+}
+h2{
+  color:rgb(4, 4, 163);
+  margin-top: 10px;
+}
+p,h3,h2{
+    text-align: center;
+}
+.btn a{
+    color: #fff !important;
+    text-decoration: none;
+    
+}
